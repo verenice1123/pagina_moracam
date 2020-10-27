@@ -1,0 +1,47 @@
+h1{
+    color:#55C6EA;
+	font-family: comic sans ms;
+
+}
+
+h2{
+	color:#CC2EFA;
+	font-family: Berlin Sans FB;
+	
+	
+}
+p {
+	font-family: Helvetica;
+}
+li{
+	font-family: Helvetica;
+}
+a{
+     background-color:#fb83b3;
+              padding: 15px;
+              display: inline-block;
+              margin-bottom: 10px;
+              width: 70px;
+              text-align: center;
+              border-style: double;
+}
+.face{
+	font-size:1;
+}
+#pre{
+	border: 2px solid #D7DF01;
+	width: 70px;
+	height: 30px;
+	padding: 12px 20px 12px 20px;
+	text-align: center;
+	color:#31B404;
+	font-size: 8;
+
+ 
+}
+h3{
+	color:#55C6EA;
+	font-family: calibri;
+	
+
+}
